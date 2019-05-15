@@ -3,5 +3,6 @@ My solutions to the DataCamp Projects. These are side projects I have been worki
 Let me know if these have been helpful to you!  
 
 **Projects:** 
-- Exploring 67 years of LEGO (Python)
 - Classify Song Genres from Audio Data (Python)
+- Exploring 67 years of LEGO (Python)
+
