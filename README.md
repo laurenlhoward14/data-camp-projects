@@ -10,3 +10,4 @@ Let me know if these have been helpful to you!
 - [Exploring 67 years of LEGO (Python)](https://www.datacamp.com/projects/10)
 - [TV, Halftime Shows, and the Big Game (SQL)](https://www.datacamp.com/projects/731)
 
+- Analyzing Police Activity using Pandas (Python)
